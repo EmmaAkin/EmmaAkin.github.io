@@ -4,7 +4,7 @@
 
 ___
 
-This file contain 'css folder', 'js', 'html' and 'fonts'.
+This file contain `css folder`, `js`, `html` and `fonts`.
 
 ### Installation
 ___
@@ -41,8 +41,8 @@ The file contains information on the website about
 
 >  What we would want to get
 
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+What do you think
+![alt text](https://github.com/EmmaAkin/mywebsite/blob/master/images/design-visual-1.png)
 
 :bulb: :bulb: :red_circle:
 
