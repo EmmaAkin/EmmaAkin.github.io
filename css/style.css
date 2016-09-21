@@ -43,15 +43,13 @@ div#thiscircle {
 
 
 /*This code can be optimized to allow one single code to be loaded while the content of the circle changes.*/
-#thiscircle::before{
+#thiscircle span{
     position: relative;
-    content: "1986";
-    font-size: 1.5em;
-    top: -5px;
-    right: 55px;
+    right: 60px;
+    top: -7px;
     color: #fff;
+    font-size: 1.6em;
 }
-
 
 
 
