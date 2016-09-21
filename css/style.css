@@ -149,7 +149,7 @@ h2.text-center {
 #contact {
     background:transparent;
     color:#fff;
-    padding:80px 0;
+    padding:10px 0;
     border-top: 10px dashed #fff;
     border-bottom: 10px dashed #fff;
 
@@ -159,7 +159,7 @@ h2.text-center {
 color: #F8823C;
 font-weight: 700;
 text-shadow: 1px 1px rgba(255, 255, 255, 0.7);
-margin-bottom: 84px;
+margin-bottom: 24px;
 }
 
 #contact .section-title [class*=icon]{
