@@ -215,19 +215,32 @@ h2.text-center {
 ------------------------*/
 
 #contact {
+<<<<<<< HEAD
     background: transparent;
     color: #fff;
     padding: 80px 0;
+=======
+    background:transparent;
+    color:#fff;
+    padding:10px 0;
+>>>>>>> ad0bbc57223630b664bd6d6bd9549eb1aa897fd6
     border-top: 10px dashed #fff;
     border-bottom: 10px dashed #fff;
 
 }
 
 #contact .section-title {
+<<<<<<< HEAD
     color: #F8823C;
     font-weight: 700;
     text-shadow: 1px 1px rgba(255, 255, 255, 0.7);
     margin-bottom: 84px;
+=======
+color: #F8823C;
+font-weight: 700;
+text-shadow: 1px 1px rgba(255, 255, 255, 0.7);
+margin-bottom: 24px;
+>>>>>>> ad0bbc57223630b664bd6d6bd9549eb1aa897fd6
 }
 
 #contact .section-title [class*=icon] {
@@ -684,8 +697,13 @@ a:focus {
 }
 
 a {
+<<<<<<< HEAD
     color: #30695a;
     text-decoration: none;
+=======
+  color: rgb(117, 77, 77);
+  text-decoration: none;
+>>>>>>> ad0bbc57223630b664bd6d6bd9549eb1aa897fd6
 }
 
 a:hover,
