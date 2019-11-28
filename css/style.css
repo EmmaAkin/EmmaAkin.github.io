@@ -96,7 +96,8 @@ div#thiscircle {
 
 
 /*Emmanuel Addition*/
-#about h2 {
+#about h2,
+#skills h2.first-row {
     margin-bottom: 40px;
     font-size: 48px;
     line-height: 55px;
@@ -112,17 +113,18 @@ div#thiscircle {
 
 
 
-.about-section .row {
+.about-section .row,
+.skills-section h2 {
     margin-bottom: 5rem;
 }
 
 .first-row {
-    margin-top: 25rem !important;
+    margin-top: 27rem !important;
 
 }
 
 .last-row {
-    margin-bottom: 25rem !important;
+    margin-bottom: 27rem !important;
 }
 
 
