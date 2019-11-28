@@ -1,6 +1,6 @@
-##This is a brand Website: Emma, PenseBien
+## This is a brand Website: Emma, PenseBien
 
-###The website contain a brief of me
+### The website contain a brief of me
 
 ___
 
@@ -48,11 +48,6 @@ What do you think
 
 
 Let us see how soon here!
-
-
-
-
-
 
 
 
