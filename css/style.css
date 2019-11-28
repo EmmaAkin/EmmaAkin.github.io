@@ -110,19 +110,19 @@ div#thiscircle {
     margin-bottom: 10px;
 }
 
-.about-section h2,
-.skills-section .skill {
-    margin-top: 14rem;
 
-}
 
 .about-section .row {
     margin-bottom: 5rem;
 }
 
-.about-section .row.last-row,
-.skill-section .row.last-row {
-    margin-bottom: 14rem;
+.first-row {
+    margin-top: 25rem !important;
+
+}
+
+.last-row {
+    margin-bottom: 25rem !important;
 }
 
 
