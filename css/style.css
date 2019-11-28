@@ -97,7 +97,8 @@ div#thiscircle {
 
 /*Emmanuel Addition*/
 #about h2,
-#skills h2.first-row {
+#skills h2.first-row,
+#contact h2 {
     margin-bottom: 40px;
     font-size: 48px;
     line-height: 55px;
@@ -627,16 +628,8 @@ h1 {
     letter-spacing: 0.02em;
 }
 
-h1.section-title {
-    position: relative;
-    margin: 0 0 24px;
-    padding-top: 50px;
-    font-size: 48px;
-    line-height: 64px;
-    font-weight: 300;
+h2.section-title {
     text-align: center;
-    color: #FFBF00;
-    z-index: 1;
 }
 
 .section-title span {
