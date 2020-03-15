@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pensebien.github.io
+Token: aec9d70d5a1e3a0953ac549daedb543c42b808f0d530ddad8e008489e532a914
